@@ -1,0 +1,11 @@
+A. Boccadifuoco, A. Mariotti, S. Celi, N. Martini, M.V. Salvetti,
+Impact of uncertainties in outflow boundary conditions on the predictions of hemodynamic simulations of ascending thoracic aortic aneurysms,
+Computers & Fluids,
+Volume 165,
+2018,
+Pages 96-115,
+ISSN 0045-7930,
+https://0-doi-org.biblioteca-ils.tec.mx/10.1016/j.compfluid.2018.01.012.
+(http://0-www.sciencedirect.com.biblioteca-ils.tec.mx/science/article/pii/S0045793018300124)
+Abstract: The impact of outflow boundary conditions on the results of numerical simulations of the flow inside ascending thoracic aortic aneurysms is investigated. The adopted outflow conditions are based on the lumped three-element Windkessel model, in which it is assumed that the pressure at the outflow is related to the flow rate and to a terminal constant pressure, through an electric circuit analogue that has a proximal resistance in series with a parallel arrangement of a capacitance and of a distal resistance. The values of the Windkessel model parameters must be a-priori specified. The impact on the numerical simulation results of uncertainties in the values of the Windkessel model parameters is quantified here through a stochastic approach. The propagation of the considered uncertainties is evaluated, in particular, for the instantaneous and time-averaged wall shear stress. The generalized Polynomial Chaos is used as a surrogate model to obtain continuous response surfaces of the quantities of interest in the parameter space starting from a few deterministic simulations. A patient-specific geometry, obtained through in-vivo imaging, is considered. The analysis is carried out for both rigid and compliant vessel walls. Our results show that, although the uncertainties in the selected outflow parameters may give significant variability of the instantaneous shear stresses in regions characterized by flow recirculation or large streamline curvature, the impact on cycle-averaged shear stresses is moderate. Taking into account the wall compliance seems to reduce the impact of the uncertainties in the outflow parameters compared to the rigid case.
+Keywords: Uncertainty quantification; Polynomial chaos expansion; Ascending thoracic aortic aneurysm; CFD simulations; Magnetic resonance imaging
